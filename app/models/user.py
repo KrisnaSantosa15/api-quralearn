@@ -16,6 +16,6 @@ class User(Base):
     username = sa.Column('username', sa.String(256), nullable=False, unique=True)
     password = sa.Column('password', sa.String(512), nullable=False)
     full_name = sa.Column('full_name', sa.String(256), nullable=True)
-    created_at = sa.Column('created_at', sa.DateTime, nullable=False, server_default=sa.func.now())
-    modified_at = sa.Column('modified_at', sa.DateTime, nullable=False, server_default=sa.func.now(), onupdate=sa.func.now())
+    created_at = sa.Column('created_at', sa.DateTime, default=sa.func.NOW())
+    modified_at = sa.Column('modified_at', sa.DateTime, default=sa.func.NOW(), onupdate=sa.func.NOW())
     

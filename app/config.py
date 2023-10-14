@@ -4,6 +4,8 @@ from pydantic_settings import BaseSettings
 class Config(BaseSettings):
     #ACCESS_TOKEN_EXPIRATION: int = 60 * 60 * 24 * 7 # 7 days
     ACCESS_TOKEN_EXPIRATION: int = 5 * 60 # 5 minutes
+    REFRESH_TOKEN_EXPIRATION: int = 60 * 60 * 24 * 30 # 30 days
+    
     PRIVATE_KEY: str
     PUBLIC_KEY: str
     REFRESH_PRIVATE_KEY: str

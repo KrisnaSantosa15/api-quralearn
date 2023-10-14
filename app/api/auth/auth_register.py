@@ -31,5 +31,6 @@ async def auth_register(data: RegisterData, session = Depends(get_db_session)):
     
     user = User(username=data.username, full_name=data.full_name, password=encrypted_password)
     session.add(user)
+    session.commit()
     
     return Response(status_code=status.HTTP_201_CREATED)
