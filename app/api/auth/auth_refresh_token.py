@@ -52,7 +52,7 @@ async def auth_refresh_token(data: RefreshTokenData, session = Depends(get_db_se
             )
         ).where(
             UserLogin.user_id == User.id,
-            UserLogin.refresh_token == data.refresh_token
+            UserLogin.refresh_token == data.refresh_token,
         )
     ).fetchone()
 
