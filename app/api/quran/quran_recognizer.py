@@ -14,10 +14,19 @@ from typing import List
 # Define a directory where you want to save the sound files
 UPLOAD_DIRECTORY = "upload_directory"
 
-def load_Quran_fine_tuned_elgeish_xlsr_53_model_and_processor():
+loaded_model = None
+loaded_processor = None
+
+def load_model():
     global loaded_model, loaded_processor
     loaded_model = Wav2Vec2ForCTC.from_pretrained("Nuwaisir/Quran_speech_recognizer").eval()
     loaded_processor = Wav2Vec2Processor.from_pretrained("Nuwaisir/Quran_speech_recognizer")
+
+
+# def load_Quran_fine_tuned_elgeish_xlsr_53_model_and_processor():
+#     global loaded_model, loaded_processor
+#     loaded_model = Wav2Vec2ForCTC.from_pretrained("Nuwaisir/Quran_speech_recognizer").eval()
+#     loaded_processor = Wav2Vec2Processor.from_pretrained("Nuwaisir/Quran_speech_recognizer")
 
 def predict_sound_file(file_path, loaded_model, loaded_processor):
     speech, _ = librosa.load(file_path, sr=16000)
@@ -29,7 +38,7 @@ def predict_sound_file(file_path, loaded_model, loaded_processor):
     predicted_text = buckwalter.untrans(pred_1)
     return predicted_text
 
-load_Quran_fine_tuned_elgeish_xlsr_53_model_and_processor()
+# load_Quran_fine_tuned_elgeish_xlsr_53_model_and_processor()
 
 async def quran_recognizer(sounds: List[UploadFile] = File(...)):
     """Quran Recognizer
@@ -40,6 +49,9 @@ async def quran_recognizer(sounds: List[UploadFile] = File(...)):
     """
     if not os.path.exists(UPLOAD_DIRECTORY):
         os.makedirs(UPLOAD_DIRECTORY)
+
+    if loaded_model is None:
+        load_model()  # Load the model if it's not already loaded
 
     for sound in sounds:
         # Save the uploaded sound file to a local directory

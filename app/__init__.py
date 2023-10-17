@@ -2,7 +2,13 @@ from fastapi import FastAPI
 from app.api import api_router
 from fastapi.middleware.cors import CORSMiddleware
 
+from app.api.quran.quran_recognizer import load_model
+
 app = FastAPI()
+
+@app.on_event("startup")
+async def startup_event():
+    load_model()
 
 app.add_middleware(
     CORSMiddleware,
