@@ -32,7 +32,6 @@ def predict_sound_file(file_path, loaded_model, loaded_processor):
 load_Quran_fine_tuned_elgeish_xlsr_53_model_and_processor()
 
 async def quran_recognizer(sounds: List[UploadFile] = File(...)):
-    response_data = {"message": "Sound received and downloaded"}
 
     if not os.path.exists(UPLOAD_DIRECTORY):
         os.makedirs(UPLOAD_DIRECTORY)
@@ -45,10 +44,7 @@ async def quran_recognizer(sounds: List[UploadFile] = File(...)):
 
         # Predict the transcribed text
         transcribed_text = predict_sound_file(sound_path, loaded_model, loaded_processor)
+        response_data = {"message": transcribed_text, "success": True, "code": 200, "meta": {}, "data": ""}
 
-        # Save the transcribed text to a text file with the same name as the sound file
-        text_file_path = os.path.splitext(sound_path)[0] + ".txt"
-        with open(text_file_path, "w", encoding="utf-8") as text_file:
-            text_file.write(transcribed_text)
 
     return JSONResponse(content=response_data)
