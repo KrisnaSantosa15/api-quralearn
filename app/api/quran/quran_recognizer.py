@@ -32,7 +32,12 @@ def predict_sound_file(file_path, loaded_model, loaded_processor):
 load_Quran_fine_tuned_elgeish_xlsr_53_model_and_processor()
 
 async def quran_recognizer(sounds: List[UploadFile] = File(...)):
-
+    """Quran Recognizer
+            
+            This API is used to recognize quran sound.
+            
+            the sound file must be in .wav format. 
+    """
     if not os.path.exists(UPLOAD_DIRECTORY):
         os.makedirs(UPLOAD_DIRECTORY)
 
