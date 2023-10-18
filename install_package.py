@@ -16,7 +16,7 @@ def install_portaudio_dev():
         print("PortAudio19-Dev is already installed.")
     except subprocess.CalledProcessError:
         # If the package is not found, install it
-        installation_command = "sudo apt-get update && sudo apt-get install -y portaudio19-dev"
+        installation_command = "sudo apt-get update && sudo apt-get install -y libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0"
         try:
             subprocess.run(installation_command, shell=True, check=True)
             print("PortAudio19-Dev installed successfully.")
