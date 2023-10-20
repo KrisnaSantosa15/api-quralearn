@@ -19,6 +19,7 @@ class LoginData(BaseModel):
 
 class LoginDataResponseModel(BaseModel):
     user_id: int
+    username: str
     refresh_token: str
     access_token: str
     expired_at: int
@@ -31,6 +32,7 @@ class LoginResponseModel(BaseResponseModel):
             "example": {
                 "data": {
                     "user_id": 1000,
+                    "username": "krisna",
                     "refresh_token": "abc.def.ghi",
                     "access_token": "jkl.mno.pqr",
                     "expired_at": 1630000000
@@ -79,6 +81,7 @@ async def auth_login(data: LoginData, session = Depends(get_db_session)):
     return LoginResponseModel(
         data=LoginDataResponseModel(
             user_id=user.id,
+            username=data.username,
             refresh_token=refresh_token,
             access_token=access_token,
             expired_at=access_token_expired_at
