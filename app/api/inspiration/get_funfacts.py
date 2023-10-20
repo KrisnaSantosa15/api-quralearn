@@ -9,9 +9,9 @@ class GetFunfactsResponseModel(BaseResponseModel):
         json_schema_extra = {
             'example': {
                 'data': {
-                    'Id': 1000,
-                    'Description': 'Oksigen dapat memiliki warna. Sebagai gas, oksigen tidak berbau dan tidak berwarna. Namun dalam bentuk cair dan padatnya, oksigen akan berwarna biru pucat.',
-                    'Image': '/api/v1/images/1.png'
+                    'id': 1000,
+                    'description': 'Oksigen dapat memiliki warna. Sebagai gas, oksigen tidak berbau dan tidak berwarna. Namun dalam bentuk cair dan padatnya, oksigen akan berwarna biru pucat.',
+                    'image': '/api/v1/images/1.png'
                 },
                 'meta': {},
                 'message': 'Success',

@@ -9,10 +9,10 @@ class GetQuotesResponseModel(BaseResponseModel):
         json_schema_extra = {
             'example': {
                 'data': {
-                    'Id': 1000,
-                    'Title': 'Bersabar',
-                    'Description': 'Dan kami jadikan sebagian kalian cobaan bagi sebagian yang lain. Maukah kalian bersabar? Q.S Al-Furqan: 20',
-                    'Image': '/api/v1/images/1.png'
+                    'id': 1000,
+                    'title': 'Bersabar',
+                    'description': 'Dan kami jadikan sebagian kalian cobaan bagi sebagian yang lain. Maukah kalian bersabar? Q.S Al-Furqan: 20',
+                    'image': '/api/v1/images/1.png'
                 },
                 'meta': {},
                 'message': 'Success',
