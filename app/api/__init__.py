@@ -16,7 +16,8 @@ from app.api.quran.get_kuis_by_type import get_kuis_by_type, GetKuisByTypeRespon
 from app.api.inspiration.get_funfacts import get_funfacts, GetFunfactsResponseModel
 from app.api.inspiration.get_quotes import get_quotes, GetQuotesResponseModel
 
-from app.api.images.get_images import get_images, getImagesResponseModel
+from app.api.images.get_funfacts_images import get_funfacts_images, getFunfactsImagesResponseModel
+from app.api.images.get_quotes_images import get_quotes_images, getQuotesImagesResponseModel
 
 api_router = APIRouter()
 
@@ -40,4 +41,5 @@ api_router.add_api_route("/api/v1/inspiration/funfacts", get_funfacts, methods=[
 api_router.add_api_route("/api/v1/inspiration/quotes/{count}", get_quotes, methods=["GET"], tags=["inspiration"], response_model=GetQuotesResponseModel) 
 
 # Images
-api_router.add_api_route("/api/v1/images/{image}", get_images, methods=["GET"], tags=["images"], response_model=getImagesResponseModel)
+api_router.add_api_route("/api/v1/funfacts_images/{image}", get_funfacts_images, methods=["GET"], tags=["images"], response_model=getFunfactsImagesResponseModel)
+api_router.add_api_route("/api/v1/quotes_images/{image}", get_quotes_images, methods=["GET"], tags=["images"], response_model=getQuotesImagesResponseModel)

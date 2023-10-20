@@ -3,7 +3,7 @@ import os
 
 from app.api_models.base_response import BaseResponseModel
 
-class getImagesResponseModel(BaseResponseModel):
+class getFunfactsImagesResponseModel(BaseResponseModel):
     class Config:
         json_schema_extra = {
             'example': {
@@ -17,11 +17,11 @@ class getImagesResponseModel(BaseResponseModel):
             }
         }
 
-async def get_images(image: str):
-    path = 'app/data/image_quotes'
+async def get_funfacts_images(image: str):
+    path = 'app/data/image_funfacts'
     image_path = os.path.join(path, image)
 
     if os.path.exists(image_path):
         return FileResponse(image_path, headers={"Content-Type": "image/png"})
     else:
-        return getImagesResponseModel(data="No image found")
+        return getFunfactsImagesResponseModel(data="No image found")
