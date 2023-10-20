@@ -40,5 +40,5 @@ async def get_funfacts():
     # add the image to the fun facts
     # Select a random fun fact
     random_fact = random.choice(fun_facts)
-    random_fact['Image'] = f'/api/v1/funfacts_images/{random_image}'
+    random_fact['image'] = f'/api/v1/funfacts_images/{random_image}'
     return GetFunfactsResponseModel(data=random_fact)

@@ -43,7 +43,7 @@ async def get_quotes(count: int = 1):
     for _ in range(count):
         random_quote = random.choice(quotes)
         random_image = random.choice(image_files)
-        random_quote['Image'] = f'/api/v1/quotes_images/{random_image}'
+        random_quote['image'] = f'/api/v1/quotes_images/{random_image}'
         selected_quotes.append(random_quote)
 
     return GetQuotesResponseModel(data=selected_quotes)
