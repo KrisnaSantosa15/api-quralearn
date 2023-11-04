@@ -1,4 +1,4 @@
-﻿{
+{
     "data": [
         {
             "id": 1,
@@ -15,19 +15,19 @@
         {
             "id": 3,
             "title": "Syukur",
-            "description": "Sesungguhnya jika kamu bersyukur, pasti Kami akan menambah nikmat kepadamu. QS. Ibrahim: 7",
+            "description": "Sesungguhnya jika kamu bersyukur, pasti Kami akan menambah (nikmat) kepadamu, namun jika kamu mengingkari (nikmat-Ku), maka sesungguhnya azab-Ku sangatlah pedih. QS. Ibrahim: 7",
             "image": ""
         },
         {
             "id": 4,
             "title": "Al-Quran",
-            "description": "Sebaik-baik kamu adalah orang yang belajar Al-Qur’an dan  mengajarkannya. Hadits Bukhari",
+            "description": "Sebaik-baik kamu adalah orang yang belajar Al-Qur’an dan  mengajarkannya. Hadits Riwayat Bukhari",
             "image": ""
         },
         {
             "id": 5,
             "title": "Al-Quran",
-            "description": "Bacalah Al-Qur’an, karena ia akan datang pada hari kiamat memberikan syafaat kepada pembacanya. Hadits R.Muslim",
+            "description": "Bacalah Al-Qur’an, karena ia akan datang pada hari kiamat memberikan syafaat kepada pembacanya. Hadits Riwayat Muslim",
             "image": ""
         },
         {
@@ -39,13 +39,13 @@
         {
             "id": 7,
             "title": "Sombong",
-            "description": "Allah tidak menyukai terhadap orang yang sombong dan membanggakan diri. Q.S Al-Hadid: 23",
+            "description": "Agar kamu tidak bersedih hati terhadap apa yang luput dari kamu dan tidak pula terlalu gembira terhadap apa yang diberikan-Nya kepadamu. Dan Allah tidak menyukai terhadap orang yang sombong dan membanggakan diri. Q.S Al-Hadid: 23",
             "image": ""
         },
         {
             "id": 8,
             "title": "Fitnah",
-            "description": "Barangsiapa berbuat dosa, dituduhkan kepada orang tidak bersalah. Sungguh dia telah memikul dosa yang nyata. Q.S An-Nisa: 112",
+            "description": "Dan barangsiapa berbuat kesalahan atau dosa, kemudian dia tuduhkan kepada orang yang tidak bersalah, maka sungguh dia telah memikul suatu kebohongan dan dosa yang nyata. Q.S An-Nisa: 112",
             "image": ""
         },
         {
@@ -57,7 +57,7 @@
         {
             "id": 10,
             "title": "Kebahagiaan",
-            "description": "carilah apa yang telah dianugerahkan kepadamu dan janganlah kamu melupakan bagianmu dari kenikmatan duniawi. Q.S Al-Qashas: 77",
+            "description": "Dan carilah pada apa yang telah dianugerahkan kepadamu (kebahagiaan) negeri akhirat dan janganlah kamu melupakan bagianmu dari (kenikmatan) duniawi. Q.S Al-Qashas: 77",
             "image": ""
         },
         {
@@ -69,37 +69,37 @@
         {
             "id": 12,
             "title": "Bersyukur",
-            "description": "Dia memberimu pendengaran, penglihatan, dan hati agar kamu bersyukur. Q.S An-Nahl: 78",
+            "description": "Dan Allah mengeluarkan kamu dari perut ibumu dalam keadaan tidak mengetahui sesuatu apa pun, dan Dia memberimu pendengaran, penglihatan, dan hati agar kamu bersyukur. Q.S An-Nahl: 78",
             "image": ""
         },
         {
             "id": 13,
-            "title": "Kebaikan",
-            "description": "Tolaklah kejahatan itu dengan cara yang baik sehingga yang memusuhimu akan seperti teman yang setia. Q.S Fusshilat: 34",
+            "title": "Kehidupan",
+            "description": "Kebaikan tidak sama dengan kejahatan. Tolaklah kejahatan itu dengan cara yang lebih baik sehingga yang memusuhimu akan seperti teman yang setia. Q.S Fusshilat: 34",
             "image": ""
         },
         {
             "id": 14,
-            "title": "Kemudahan",
-            "description": "Sesungguhnya bersama kesulitan ada kemudahan. Q.S Al-Insyirah: 5-6",
+            "title": "Amal Saleh",
+            "description": "Barang siapa yang mengerjakan amal saleh, baik laki-laki maupun perempuan dalam keadaan beriman, maka sesungguhnya akan kami berikan kepadanya kehidupan yang baik, dan sesungguhnya akan kami berikan balasan kepada mereka dengan pahala yang lebih baik dari apa yang telah mereka kerjakan. Q.S An-Nahl: 97",
             "image": ""
         },
         {
             "id": 15,
-            "title": "Kuasa Allah",
-            "description": "Tidak ada kekuatan kecuali dengan pertolongan Allah. Q.S Al-Kahf: 39",
+            "title": "Beriman",
+            "description": "Hai orang-orang yang beriman, mintalah pertolongan kepada Allah dengan sabar dan salat. Sesungguhnya Allah beserta orang-orang yang sabar. Q.S Al-Baqarah: 153",
             "image": ""
         },
         {
             "id": 16,
-            "title": "Rahmat Tuhan",
-            "description": "Janganlah kamu putus asa dari rahmat Allah. Q.S Az-Zumar: 53",
+            "title": "Nasib",
+            "description": "Sesungguhnya Allah tidak akan mengubah nasib suatu kaum sehingga mereka mengubah keadaan yang ada pada diri mereka sendiri. Q.S Ar-Ra'd: 11",
             "image": ""
         },
         {
             "id": 17,
-            "title": "Ujian",
-            "description": "Apakah manusia itu mengira bahwa mereka dibiarkan saja, sedang mereka tidak diuji lagi? Q.S Al-'Ankabut: 2",
+            "title": "Beriman",
+            "description": "Apakah manusia itu mengira bahwa mereka dibiarkan (saja) mengatakan, 'Kami telah beriman' sedang mereka tidak diuji lagi? Q.S Al-'Ankabut: 2",
             "image": ""
         },
         {
@@ -111,7 +111,7 @@
         {
             "id": 19,
             "title": "Kematian",
-            "description": "Di mana saja kamu berada, kematian akan mendapatkanmu. Q.S An-Nisa: 78",
+            "description": "Di mana saja kamu berada, kematian akan mendapatkanmu, kendati pun kamu berada dalam benteng yang tinggi dan kukuh. Q.S An-Nisa: 78",
             "image": ""
         },
         {
@@ -123,37 +123,37 @@
         {
             "id": 21,
             "title": "Pelajaran",
-            "description": "Sesungguhnya pada binatang ternak itu terdapat pelajaran bagimu. Kami memberimu minum berupa susu yang bersih. Q.S An-Nahl: 66",
+            "description": "Dan sesungguhnya pada binatang ternak itu benar-benar terdapat pelajaran bagimu. Kami memberimu minum dari apa yang berada dalam perutnya berupa susu yang bersih. Q.S An-Nahl: 66",
             "image": ""
         },
         {
             "id": 22,
             "title": "Kuasa Allah",
-            "description": "Engkau akan melihat gunung yang engkau kira tetap di tempatnya, padahal dia seperti awan berjalan. Q.S An-Naml: 88",
+            "description": "Dan engkau akan melihat gunung-gunung, yang engkau kira tetap berdiri di tempatnya, padahal dia berjalan seperti awan berjalan. Q.S An-Naml: 88",
             "image": ""
         },
         {
             "id": 23,
-            "title": "Bertakwa",
-            "description": "Sungguh kampung akhirat itu lebih baik bagi orang-orang yang bertakwa. Maka tidakkah kamu memahaminya? Q.S Al-An’am: 32",
+            "title": "Kehidupan Dunia",
+            "description": "Dan tiadalah kehidupan dunia ini, selain dari main-main dan senda gurau belaka. Dan sungguh kampung akhirat itu lebih baik bagi orang-orang yang bertakwa. Maka tidakkah kamu memahaminya? Q.S Al-An’am: 32",
             "image": ""
         },
         {
             "id": 24,
             "title": "Menahan Nafsu",
-            "description": "Dan adapun orang yang menahan dari keinginan hawa nafsunya, maka sesungguhnya surgalah tempat tinggal mereka. Q.S An-Nazi’at:40-41",
+            "description": "Dan adapun orang-orang yang takut pada kebesaran Tuhannya dan menahan diri dari keinginan hawa nafsunya, maka sesungguhnya surgalah tempat tinggal mereka. Q.S An-Nazi’at: 40-41",
             "image": ""
         },
         {
             "id": 25,
             "title": "Berlindung",
-            "description": "jika setan datang menggodamu, maka berlindunglah kepada Allah. Sungguh, Dia Maha mendengar lagi Maha mengetahui. Q.S Al-A’raf: 200",
+            "description": "Dan jika setan datang menggodamu, maka berlindunglah kepada Allah. Sungguh, Dia Maha mendengar lagi Maha mengetahui. Q.S Al-A’raf: 200",
             "image": ""
         },
         {
             "id": 26,
             "title": "Orang Zalim",
-            "description": "Dan siapakah yang lebih sesat daripada orang yang mengikuti hawa nafsunya. Q.S Al-Qashas: 50",
+            "description": "Dan siapakah yang lebih sesat daripada orang yang mengikuti hawa nafsunya dengan tidak mendapat petunjuk dari Allah sedikit pun. Sesungguhnya Allah tidak memberi petunjuk kepada orang-orang yang zalim. Q.S Al-Qashas: 50",
             "image": ""
         },
         {
@@ -182,8 +182,8 @@
         },
         {
             "id": 31,
-            "title": "Istigfar",
-            "description": "Jika dosamu ingin terhapus. Maka istigfar dulu seratus. -Anonim",
+            "title": "Bersyukur",
+            "description": "Sesungguhnya jika kamu bersyukur, pasti Kami akan menambah (nikmat) kepadamu, namun jika kamu mengingkari (nikmat-Ku), maka sesungguhnya azab-Ku sangatlah pedih.  Q.S. Ibrahim: 7",
             "image": ""
         },
         {
@@ -195,37 +195,37 @@
         {
             "id": 33,
             "title": "Kuasa Allah",
-            "description": "Sesungguhnya Kami menciptakanmu menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling mengenal. Q.S Al-Hujurat:13",
+            "description": "Hai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling mengenal. Q.S Al-Hujurat: 13",
             "image": ""
         },
         {
             "id": 34,
             "title": "Peringatan Allah",
-            "description": "Celakalah bagi pencela yang mengumpulkan harta. Dia mengira bahwa hartanya dapat menyelamatkannya. Q.S Al-Humazah:1-3",
+            "description": "Kecelakaanlah bagi setiap pengumpat dan pencela, yang mengumpulkan harta dan menghitung-hitungnya. Dia mengira bahwa hartanya dapat menyelamatkannya. Q.S Al-Humazah: 1-3",
             "image": ""
         },
         {
             "id": 35,
-            "title": "Allah Maha Penyayang",
-            "description": "Dan sesungguhnya, Allah itu bersama orang-orang yang (senang) berbuat baik. Q.S Al-Ankabut 29:69",
+            "title": "Bertanggung Jawab",
+            "description": "Laki-laki bertanggung jawab atas perempuan berdasarkan apa yang Allah berikan satu atas yang lain dan apa yang mereka belanjakan dari kekayaan mereka. Q.S Ali Imran: 34",
             "image": ""
         },
         {
             "id": 36,
             "title": "Kebesaran Allah",
-            "description": "Tidak ada solusi yang lebih baik bagi dua insan yang saling mencintai dibanding pernikahan. -H.R. Ibnu Majah",
+            "description": "Dan di antara tanda-tanda kebesaran-Nya ialah tidurmu pada waktu malam dan siang hari, dan usahamu mencari sebagian dari karunia-Nya. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang mendengarkan. Q.S Ar-Rum:23",
             "image": ""
         },
         {
             "id": 37,
             "title": "Kehidupan Akhirat",
-            "description": "Dan sesungguhnya akhirat itulah yang sebenarnya kehidupan, jika saja mereka mengetahui.  Q.S al-Ankabut 64",
+            "description": "Dan tiadalah kehidupan dunia ini melainkan hanya senda gurau dan main-main. Dan sesungguhnya akhirat itulah yang sebenarnya kehidupan, jika saja mereka mengetahui.  Q.S al-Ankabut 64",
             "image": ""
         },
         {
             "id": 38,
             "title": "Beriman",
-            "description": "Wahai orang beriman, jadikanlah sabar dan salat sebagai penolongmu. Sesungguhnya Allah beserta orang yang sabar. QS Al Baqarah:153",
+            "description": "Wahai orang-orang yang beriman, jadikanlah sabar dan salat sebagai peIdlongmu. Sesungguhnya Allah beserta orang-orang yang sabar. QS Al Baqarah:153",
             "image": ""
         },
         {
@@ -237,7 +237,7 @@
         {
             "id": 40,
             "title": "Mencintai Allah",
-            "description": "Ikutilah aku, niscaya Allah mengasihi dan mengampuni dosa-dosamu. Allah Maha Pengampun lagi Maha Penyayang. Q.S. Ali Imran: 31",
+            "description": "Jika kamu (benar-benar) mencintai Allah, ikutilah aku, niscaya Allah mengasihi dan mengampuni dosa-dosamu. Allah Maha Pengampun lagi Maha Penyayang. Q.S. Ali Imran: 31",
             "image": ""
         },
         {
@@ -248,32 +248,32 @@
         },
         {
             "id": 42,
-            "title": "Cobaan Allah",
-            "description": "Penderitaan adalah anugerah. Di dalamnya tersembunyi belas kasihan Tuhan semesta alam. -Jalaluddin Rumi",
+            "title": "Jodoh",
+            "description": "Perempuan-perempuan yang keji untuk laki-laki yang keji dan laki-laki yang keji untuk perempuan-perempuan yang keji (pula), sedangkan perempuan-perempuan yang baik untuk laki-laki yang baik dan laki-laki yang baik untuk perempuan-perempuan yang baik (pula). Mereka (yang baik) itu bersih dari apa yang dituduhkan orang. Bagi mereka ampunan dan rezeki yang mulia. Q.S. An-Nur: 26",
             "image": ""
         },
         {
             "id": 43,
             "title": "Istigfar",
-            "description": "Barangsiapa memperbanyak istigfar, niscaya Allah melegakan setiap kegundahan mereka, melepaskan kesempitan mereka. HR Abu Dawud",
+            "description": "Barangsiapa memperbanyak istigfar, niscaya Allah melegakan setiap kegundahan mereka, melepaskan kesempitan mereka, dan memberikan rezeki secara tidak diduga-duga. HR Abu Dawud",
             "image": ""
         },
         {
             "id": 44,
             "title": "Cobaan",
-            "description": "Aku sangat amat percaya. Hanya cinta dari Tuhanku Allah lah yang akan membuat semua sakitku sembuh. -Anonim.",
+            "description": "Dan sungguh akan Kami berikan cobaan kepadamu, dengan sedikit ketakutan, kelaparan, kekurangan harta, jiwa dan buah-buahan. Dan berikanlah berita gembira kepada orang-orang yang sabar. Q.S. Al Baqarah: 155",
             "image": ""
         },
         {
             "id": 45,
-            "title": "Allah Maha Mendengar",
-            "description": "Berdoalah kepada Allah, niscaya pasti Dia mendengarnya. Karena dialah yang Maha Mendengar hati manusia. -Anonim.",
+            "title": "Membaca Al-Quran",
+            "description": "Sesungguhnya orang-orang yang selalu membaca Kitab Allah (Al-Quran) dan melaksanakan salat dan menginfakkan sebagian rezeki yang Kami anugerahkan kepadanya dengan diam-diam dan terang-terangan, mereka itu mengharapkan perdagangan yang tidak akan rugi. Q.S. Fathir: 29",
             "image": ""
         },
         {
             "id": 46,
-            "title": "Duniawi",
-            "description": "Maka jangan sekali-kali membiarkan kehidupan dunia ini memperdayakan kamu. Q.S Fatir: 5",
+            "title": "Membaca Al-Quran",
+            "description": "Siapa saja membaca satu huruf dari Kitabullah (Alquran) maka dia akan mendapat satu kebaikan. Sedangkan satu kebaikan dilipatkan kepada sepuluh semisalnya. Aku tidak mengatakan alif lâm mîm satu huruf. Akan tetapi, alif satu huruf, lâm satu huruf, dan mîm satu huruf. HR At-Tirmidzi",
             "image": ""
         },
         {
@@ -285,25 +285,25 @@
         {
             "id": 48,
             "title": "Membaca Al-Quran",
-            "description": "Sedangkan orang yang membaca Al-Qur’an dengan tersendat-sendat lagi berat, maka ia akan mendapatkan dua pahala. HR Muslim",
+            "description": "Orang yang lancar membaca Al-Qur’an akan bersama malaikat utusan yang mulia lagi berbakti, sedangkan orang yang membaca Al-Qur’an dengan tersendat-sendat lagi berat, maka ia akan mendapatkan dua pahala. HR Muslim",
             "image": ""
         },
         {
             "id": 49,
-            "title": "Allah Maha Melihat",
-            "description": "Tidakkah dia menyadari bahwa sesungguhnya Allah melihat segala perbuatannya?. Q.S Al Alaq: 14",
+            "title": "Membaca Al-Quran",
+            "description": "Tidaklah berkumpul sebuah kaum di salah satu rumah Allah, mereka membaca kitab Allah dan mempelajarinya, kecuali akan turun ketenteraman kepada mereka, diliputi oleh rahmat, dikelilingi oleh para malaikat dan Allah akan menyebut mereka ke hadapan makhluk di sisi-Nya. HR Muslim",
             "image": ""
         },
         {
             "id": 50,
             "title": "Menghafal Al-Quran",
-            "description": "Baca serta tartillah sebagaimana engkau mentartilnya. Karena kedudukanmu pada akhir ayat yang engkau baca. HR Abu Dawud",
+            "description": "Dikatakan kepada orang yang membaca (menghafalkan) Al Qur’an nanti : ‘Bacalah dan naiklah serta tartillah sebagaimana engkau di dunia mentartilnya. Karena kedudukanmu adalah pada akhir ayat yang engkau baca (hafal). HR Abu Dawud dan At-Tirmidzi",
             "image": ""
         },
         {
             "id": 51,
             "title": "Membaca Al-Quran",
-            "description": "Barangsiapa membaca dan menghafal Al-Quran, taat hukum Allah. Akan masuk Surga dan mendapat syafaat. HR Ahmad dan Tirmidzi.",
+            "description": "Barangsiapa membaca Al-Quran dan menghafalnya, lalu menghalalkan apa yang dihalalkannya dan mengharamkan apa yang diharamkannya, maka Allah Ta'ala akan memasukannya ke dalam Surga dan Allah menjaminnya untuk memberi syafa'at (pertolongan) kepada sepuluh orang keluarganya yang kesemuanya telah diwajibkan masuk neraka. HR Ahmad dan Tirmidzi",
             "image": ""
         },
         {
@@ -320,14 +320,14 @@
         },
         {
             "id": 54,
-            "title": "Sholat",
-            "description": "Sholatlah sebelum engkau di sholatkan -Anonim",
+            "title": "Memulai",
+            "description": "All blame is a waste of time. Id matter how much fault you find with aIdther, and regardless of how much you blame him,  it will Idt change you. -Wayne Dyer",
             "image": ""
         },
         {
             "id": 55,
             "title": "Proses",
-            "description": "Jangan pernah biarkan orang lain melihat proses mu, beritahulah ketika kamu sudah mencapai mimpimu. -Anonim",
+            "description": "Jangan pernah biarkan orang lain melihat proses mu, beritahulah ketika kamu sudah mencapai mimpimu. -AIdnim",
             "image": ""
         },
         {
@@ -339,49 +339,49 @@
         {
             "id": 57,
             "title": "Jangan Menyerah",
-            "description": "Jangan pernah menyerah ketika kamu mampu berusaha lagi. Tidak ada kata berakhir sampai kamu berhenti mencoba. -Brian Dyson",
+            "description": "Janganlah pernah menyerah ketika kamu masih mampu berusaha lagi. Tidak ada kata berakhir sampai kamu berhenti mencoba. -Brian Dyson",
             "image": ""
         },
         {
             "id": 58,
             "title": "Perubahan Seseorang",
-            "description": "Perubahan itu menyakitkan, menyebabkan merasa tidak aman, bingung, dan marah. Orang menginginkan hal seperti dulu. -R.Marcinko",
+            "description": "Perubahan itu menyakitkan, Ia menyebabkan orang merasa tidak aman, bingung, dan marah. Orang menginginkan hal seperti sediakala, karena mereka ingin hidup yang mudah. -Richard Marcinko",
             "image": ""
         },
         {
             "id": 59,
             "title": "Meraih Mimpi",
-            "description": "Batasan untuk meraih mimpi adalah keragu-raguan kita akan hari ini. Marilah kita maju dengan keyakinan yang kuat. -F.Roosevelt ",
+            "description": "Satu-satunya batasan untuk meraih mimpi adalah keragu-raguan kita akan hari ini. Marilah kita maju dengan keyakinan yang aktif dan kuat. -Franklin Roosevelt ",
             "image": ""
         },
         {
             "id": 60,
             "title": "Bertanggung Jawab",
-            "description": "Berhentilah mengejar seseorang selagi kamu masih belum bisa bertanggung jawab terhadap diri sendiri. -Akbar Wira",
+            "description": "Berhentilah mengejar seseorang selagi kamu masih belum bisa bertanggung jawab terhadap diri sendiri dan orang terdekat. -Akbar Wira",
             "image": ""
         },
         {
             "id": 61,
             "title": "Tetaplah Bahagia",
-            "description": "Jadilah positif. Tetaplah bahagia dan jangan biarkan hal-hal negatif dunia membuatmu kecewa. -Anonym",
+            "description": "Jadilah positif. Tetaplah bahagia dan jangan biarkan hal-hal negatif dunia membuatmu kecewa. -AIdnym",
             "image": ""
         },
         {
             "id": 62,
             "title": "Jangan Menyerah",
-            "description": "Mungkin sulit sekarang, mungkin sedih sekarang, tetapi suatu hari nanti kamu akan baik-baik saja, segera. -Anonym",
+            "description": "Mungkin sulit sekarang, mungkin sedih sekarang, tetapi suatu hari nanti kamu akan baik-baik saja, segera. -AIdnym",
             "image": ""
         },
         {
             "id": 63,
             "title": "Jangan Perdulikan",
-            "description": "Jangan pernah tersandung hal-hal yang sudah berada di belakangmu. -Anonim",
+            "description": "Jangan pernah tersandung hal-hal yang sudah berada di belakangmu. -AIdnim",
             "image": ""
         },
         {
             "id": 64,
             "title": "Jangan Salah Menilai",
-            "description": "Hanya karena seseorang terlihat baik, belum tentu mereka memang yang terbaik untukmu. Katak Beracun pun terlihat indah. -Anonim",
+            "description": "Hanya karena seseorang terlihat baik, belum tentu mereka memang yang terbaik untukmu. Susu yang tumpah pun warnanya tetap putih. -AIdnim",
             "image": ""
         },
         {
@@ -405,7 +405,7 @@
         {
             "id": 68,
             "title": "Realita Harta",
-            "description": "Uang memang bukan segalanya, namun jika uang tidak bisa membeli kebahagiaan? Mungkin uang mu kurang banyak. -Anonim",
+            "description": "Uang memang bukan segalanya, namun jika uang tidak bisa membeli kebahagiaan? Mungkin uang mu kurang banyak. -AIdnim",
             "image": ""
         },
         {
@@ -423,7 +423,7 @@
         {
             "id": 71,
             "title": "Aturan kehidupan",
-            "description": "Jika sesuatu tak berarti dalam 5 tahun, jangan habiskan lebih dari 5 menit mengkhawatirkannya. -Anonim",
+            "description": "Aturan lima untuk lima. Jika suatu hal tidak akan berguna untukmu dalam lima tahun ke depan, jangan menghabiskan waktu lebih dari lima menit mengurusi hal itu. -AIdnim",
             "image": ""
         },
         {
@@ -441,31 +441,31 @@
         {
             "id": 74,
             "title": "Kebiasaan",
-            "description": "Saat membentuk kebiasaan, kebiasaan akan membentuk kita. Kalahkan kebiasaan burukmu, atau mereka akan mengalahkan kamu. -R.Gilbert",
+            "description": "Pertama kita membentuk kebiasaan dan kebiasaan akan membentuk kita. Kalahkan kebiasaan burukmu, atau mereka akan mengalahkan kamu. -Dr. Rob Gilbert",
             "image": ""
         },
         {
             "id": 75,
             "title": "Proses",
-            "description": "Sebuah permata tidak akan dapat dipoles tanpa gesekan, demikian juga seseorang tidak akan menjadi sukses tanpa tantangan. -Anonim",
+            "description": "Sebuah permata tidak akan dapat dipoles tanpa gesekan, demikian juga seseorang tidak akan menjadi sukses tanpa tantangan. -Peribahasa Cina",
             "image": ""
         },
         {
             "id": 76,
             "title": "Bersikap Sopan",
-            "description": "Treat everyone with politeness, even those who are rude to you. Not because they are nice, but because you are. -Chinese Proverbs",
+            "description": "Treat everyone with politeness, even those who are rude to you. Idt because they are nice, but because you are. -Chinese Proverbs",
             "image": ""
         },
         {
             "id": 77,
             "title": " Keluar dari Zona Nyaman",
-            "description": "Jika kamu menginginkan sesuatu yang belum pernah dimiliki. Kamu harus melakukan sesuatu yang belum pernah dilakukan. -JD Houston",
+            "description": "Jika kamu menginginkan sesuatu yang belum pernah dimiliki dalam hidupmu. Kamu harus melakukan sesuatu yang belum pernah dilakukan sebelumnya. -JD Houston",
             "image": ""
         },
         {
             "id": 78,
             "title": "Masalah Memberikanmu Kekuatan",
-            "description": "Where there is no struggle, there is no strength. -Oprah Winfrey",
+            "description": "Where there is Id struggle, there is Id strength. -Oprah Winfrey",
             "image": ""
         },
         {
@@ -489,7 +489,7 @@
         {
             "id": 82,
             "title": "Kesuksesan ",
-            "description": "Success doesn't just find you. You have to go out and get it. -Anonym",
+            "description": "Success doesn't just find you. You have to go out and get it. -AIdnym",
             "image": ""
         },
         {
@@ -501,13 +501,13 @@
         {
             "id": 84,
             "title": "Pantang Menyerah",
-            "description": "Never give up. Great things take time. Be patient. -Anonymous",
+            "description": "Never give up. Great things take time. Be patient. -AIdnymous",
             "image": ""
         },
         {
             "id": 85,
             "title": "Tidak Ada Kehidupan yang Buruk",
-            "description": "Remember, it's just a bad day, not a bad life. -Anonymous",
+            "description": "Remember, it's just a bad day, Idt a bad life. -AIdnymous",
             "image": ""
         },
         {
@@ -519,19 +519,19 @@
         {
             "id": 87,
             "title": "Jadikan Diri Lebih Baik dari Masa Lalu",
-            "description": "Don't compare yourself to others. Compare yourself to the person yesterday. -Anonymous",
+            "description": "Don't compare yourself to others. Compare yourself to the person yesterday. -AIdnymous",
             "image": ""
         },
         {
             "id": 88,
             "title": "Jangan Bertahan di Zona Nyaman",
-            "description": "Great things never come from comfort zones. -Anonymous",
+            "description": "Great things never come from comfort zones. -AIdnymous",
             "image": ""
         },
         {
             "id": 89,
             "title": "Lakukan Semua yang Terbaik dari Sekarang",
-            "description": "Do something today that your future self will thank you for. -Anonymous",
+            "description": "Do something today that your future self will thank you for. -AIdnymous",
             "image": ""
         },
         {
@@ -543,13 +543,13 @@
         {
             "id": 91,
             "title": "Push Your Self",
-            "description": "Push yourself, because no one else is going to do it for you. -Anonymous",
+            "description": "Push yourself, because Id one else is going to do it for you. -AIdnymous",
             "image": ""
         },
         {
             "id": 92,
             "title": "Reach your Goals",
-            "description": "Jika rencanamu tidak berjalan maka ganti rencana tersebut, jangan tujuannya. -Anonim",
+            "description": "Jika rencanamu tidak berjalan maka ganti rencana tersebut, jangan tujuannya. -AIdnim",
             "image": ""
         },
         {
@@ -561,13 +561,13 @@
         {
             "id": 94,
             "title": "Percaya Diri",
-            "description": "Percayalah pada diri sendiri dan kamu tidak akan terhentikan. -Anonim",
+            "description": "Percayalah pada diri sendiri dan kamu tidak akan terhentikan. -AIdnim",
             "image": ""
         },
         {
             "id": 95,
             "title": "Bermimpi",
-            "description": "If you can dream it, you can do it. -Anonymous",
+            "description": "If you can dream it, you can do it. -AIdnymous",
             "image": ""
         },
         {
@@ -591,7 +591,7 @@
         {
             "id": 99,
             "title": "Challenge your Limits",
-            "description": "Don't limit your challenges, challenge your limits. -Anonymous",
+            "description": "Don't limit your challenges, challenge your limits. -AIdnymous",
             "image": ""
         },
         {
@@ -609,31 +609,31 @@
         {
             "id": 102,
             "title": "Belajar dari Kegagalan",
-            "description": "If you never failed, you never tried anything new. -Anonymous",
+            "description": "If you never failed, you never tried anything new. -AIdnymous",
             "image": ""
         },
         {
             "id": 103,
             "title": "Fearless",
-            "description": "Once you become fearless, life becomes limitless. -Anonymous",
+            "description": "Once you become fearless, life becomes limitless. -AIdnymous",
             "image": ""
         },
         {
             "id": 104,
             "title": "Melalukan Apapun dengan Benar",
-            "description": "Quality means doing it right when no one is looking. -Henry Ford",
+            "description": "Quality means doing it right when Id one is looking. -Henry Ford",
             "image": ""
         },
         {
             "id": 105,
             "title": "Percaya Proses",
-            "description": "Hold the vision, trust the process. -Anonymous",
+            "description": "Hold the vision, trust the process. -AIdnymous",
             "image": ""
         },
         {
             "id": 106,
             "title": "Semua Ada di tanganmu",
-            "description": "Jika kamu melakukan apa yang selalu dilakukan, kamu juga akan mendapatkan apa yang selalu didapatkan. -Anonim",
+            "description": "Jika kamu melakukan apa yang selalu dilakukan, kamu juga akan mendapatkan apa yang selalu didapatkan. -AIdnim",
             "image": ""
         },
         {
@@ -645,13 +645,13 @@
         {
             "id": 108,
             "title": "Tunjukan",
-            "description": "The greatest pleasure in life is doing what people say you cannot do. -Walter Bagehot",
+            "description": "The greatest pleasure in life is doing what people say you canIdt do. -Walter Bagehot",
             "image": ""
         },
         {
             "id": 109,
             "title": "Dorong Dirimu",
-            "description": "Push harder than yesterday if you want a different tomorrow -Anonymous",
+            "description": "Push harder than yesterday if you want a different tomorrow -AIdnymous",
             "image": ""
         },
         {
@@ -669,7 +669,7 @@
         {
             "id": 112,
             "title": "Berani Bermimpi Besar",
-            "description": "Mimpi besar dan beranilah menggapainya. - Norman Vaughan",
+            "description": "Mimpi besar dan beranilah menggapainya. - Idrman Vaughan",
             "image": ""
         },
         {
@@ -692,8 +692,8 @@
         },
         {
             "id": 116,
-            "title": "Kreativitas adalah Kunci Inovasi",
-            "description": "Kreativitas memacu inovasi, inovasi memacu kemajuan. - Albert Einstein",
+            "title": "Kreativitas adalah Kunci IIdvasi",
+            "description": "Kreativitas memacu iIdvasi, iIdvasi memacu kemajuan. - Albert Einstein",
             "image": ""
         },
         {
@@ -747,19 +747,19 @@
         {
             "id": 125,
             "title": "Tetap tenang",
-            "description": "Mereka akan merindukanmu, ketika mereka gagal menemukan yang sama sepertimu. Kehendak Allah tidak bisa dihentikan. -Habib Umar",
+            "description": "Pada akhirnya mereka akan merindukanmu, ketika mereka gagal menemukan orang yang sama sepertimu. Tenanglah apa yang dikehendaki oleh Allah tidak akan bisa dihentikan oleh manusia. -Habib Umar bin Hafidz",
             "image": ""
         },
         {
             "id": 126,
-            "title": "Perjalanan Hidup",
-            "description": "Hidup adalah perjalanan yang mengakibatkan keterpisahan demi kemanunggalan. -Jalaludin Rumi",
+            "title": "Jadilah Teladan",
+            "description": "Jadilah perubahan yang ingin kamu lihat di dunia. - Mahatma Gandhi",
             "image": ""
         },
         {
             "id": 127,
             "title": "Kehendak Allah Adalah Kepastian",
-            "description": "Kehendakmu adalah harapan. Kehendak Allah adalah kepastian. Kamu boleh berharap tapi jangan memastikan. -Syech bin Abdul Qodir",
+            "description": "Kehendakmu adalah harapan. Kehendak Allah adalah kepastian. Silahkan kamu berharap tapi jangan memastikan. -Habib Syech bin Abdul Qodir Assegaf",
             "image": ""
         },
         {
@@ -789,7 +789,7 @@
         {
             "id": 132,
             "title": "Kesuksesan Adalah Proses",
-            "description": "Success is a journey, not a destination. - Ben Sweetland",
+            "description": "Success is a journey, Idt a destination. - Ben Sweetland",
             "image": ""
         },
         {
@@ -807,19 +807,19 @@
         {
             "id": 135,
             "title": "Konsistensi Berbuat Baik",
-            "description": "Tugasmu hanya memperbaiki diri. Semakin kamu baik, semakin Allah hadirkan hal-hal baik dalam hidupmu. -Ustadz Adi Hidayat",
+            "description": "Tugasmu hanya memperbaiki diri. Semakin kamu baik, semakin Allah hadirkan hal-hal baik dalam hidupmu, percayalah. -Ustadz Adi Hidayat",
             "image": ""
         },
         {
             "id": 136,
             "title": "Percaya pada Diri Sendiri",
-            "description": "Believe in yourself. Know that there is something inside you that is greater than any obstacle. - Christian D. Larson",
+            "description": "Believe in yourself and all that you are. KIdw that there is something inside you that is greater than any obstacle. - Christian D. Larson",
             "image": ""
         },
         {
             "id": 137,
             "title": "Keberanian dalam Mengambil Risiko",
-            "description": "Life is either a daring adventure or nothing at all. - Helen Keller",
+            "description": "Life is either a daring adventure or Idthing at all. - Helen Keller",
             "image": ""
         },
         {
@@ -849,7 +849,7 @@
         {
             "id": 142,
             "title": "Keberhasilan Melalui Kesalahan",
-            "description": "Success is walking from failure to failure with no loss of enthusiasm. - Winston S. Churchill",
+            "description": "Success is walking from failure to failure with Id loss of enthusiasm. - Winston S. Churchill",
             "image": ""
         },
         {
@@ -861,7 +861,7 @@
         {
             "id": 144,
             "title": "Kerja Keras dan Ketekunan",
-            "description": "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston S. Churchill",
+            "description": "Success is Idt final, failure is Idt fatal: It is the courage to continue that counts. - Winston S. Churchill",
             "image": ""
         },
         {
@@ -896,8 +896,8 @@
         },
         {
             "id": 150,
-            "title": "Kebaikan dalam Menolong Sesama",
-            "description": "Barang siapa tak merasakan pahitnya belajar walau sebentar, maka akan merasakan pedihnya kebodohan di hidupnya. -Imam Syafi'i",
+            "title": "Kebaikan dalam MeIdlong Sesama",
+            "description": "Barang siapa belum merasakan pahitnya belajar walau sebentar, maka akan merasakan hinanya kebodohan sepanjang hidupnya. - Imam Syafi'i",
             "image": ""
         },
         {
@@ -927,25 +927,25 @@
         {
             "id": 155,
             "title": "Lawan Terbesar Adalah Diri Sendiri",
-            "description": "Jiwaku sendiri, terkadang membantuku, dan terkadang menentangku, adalah hal paling sulit yang pernah kurasakan. -Jalaluddin Rumi",
+            "description": "Belum pernah aku berurusan dengan sesuatu yang lebih sulit daripada jiwaku sendiri yang terkadang membantuku, dan terkadang menentangku. -Jalaluddin Rumi",
             "image": ""
         },
         {
             "id": 156,
             "title": "Bijak dalam Memilih Teman",
-            "description": "We cannot solve our problems with the same thinking we used when we created them. -Albert Einstein",
+            "description": "We canIdt solve our problems with the same thinking we used when we created them. -Albert Einstein",
             "image": ""
         },
         {
             "id": 157,
             "title": "Kebaikan dalam Menjaga Hati",
-            "description": "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. -Steve Jobs",
+            "description": "Have the courage to follow your heart and intuition. They somehow already kIdw what you truly want to become. -Steve Jobs",
             "image": ""
         },
         {
             "id": 158,
             "title": "Kita Tidak Mampu Sempurna Dihadapan Semua Orang",
-            "description": "Kita tidak akan mampu membuat diri kita tidak dibenci, tetapi kita mampu membuat diri kita tidak membenci pada siapapun. -Habib Jindan",
+            "description": "Kita tidak akan mampu untuk membuat diri kita tidak dibenci oleh siapapun, akan tetapi kita mampu membuat diri kita tidak membenci pada siapapun. -Habib Jindan Bin Idvel",
             "image": ""
         },
         {
@@ -963,13 +963,13 @@
         {
             "id": 161,
             "title": "Pentingnya Shalat",
-            "description": "Don’t let the noise of others’ opinions drown out your own inner voice. -Steve Jobs",
+            "description": "Don’t let the Idise of others’ opinions drown out your own inner voice. -Steve Jobs",
             "image": ""
         },
         {
             "id": 162,
-            "title": "Ilmu",
-            "description": "Jualah kepandaianmu dan belilah kebingunganmu. -Jalaludin Rumi",
+            "title": "Menjaga Hati yang Tenang",
+            "description": "You can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. -Steve Jobs",
             "image": ""
         },
         {
@@ -987,7 +987,7 @@
         {
             "id": 165,
             "title": "Mencintai Orang Beriman",
-            "description": "Jangan mencintai orang yang tidak mencintai Allah. Mereka bisa meninggalkan Allah, mereka juga akan meninggalkanmu. -Imam Syafi’i",
+            "description": "Jangan mencintai orang yang tidak mencintai Allah. Jika mereka bisa meninggalkan Allah, maka mereka juga akan meninggalkanmu. -Imam Asy Syafi’i",
             "image": ""
         },
         {
@@ -999,43 +999,43 @@
         {
             "id": 167,
             "title": "Kesemimbangan Dunia Akhirat",
-            "description": "Dunia dan akhirat ibarat dua skala keseimbangan, ketika salah satunya menjadi berat, maka satunya akan menjadi ringan. -A.Abdullah",
+            "description": "Kehidupan dunia dan akhirat di hati seorang manusia ibarat dua skala keseimbangan, ketika salah satunya menjadi berat, maka yang lain akan menjadi ringan. - Amribn Abdullah",
             "image": ""
         },
         {
             "id": 168,
             "title": "Nikmat Beriman",
-            "description": "Terkadang Allah membiarkanmu merasakan kepahitan dunia ini supaya kamu dapat sepenuhnya menghargai manisnya iman. -Omar Suleiman",
+            "description": "Terkadang Allah membiarkan kamu untuk merasakan kepahitan dunia ini supaya kamu dapat sepenuhnya menghargai manisnya iman. -Omar Suleiman",
             "image": ""
         },
         {
             "id": 169,
             "title": "Jadilah Orang Berilmu",
-            "description": "Barang siapa tak merasakan pahitnya belajar walau sebentar, maka akan merasakan hinanya kebodohan sepanjang hidupnya. -Imam Syafi'i",
+            "description": "Barang siapa belum merasakan pahitnya belajar walau sebentar, maka akan merasakan hinanya kebodohan sepanjang hidupnya. - Imam Syafi'i",
             "image": ""
         },
         {
             "id": 170,
             "title": "Nikmat Berilmu",
-            "description": "Orang berilmu ibarat gula yang mengundang banyak semut. Dia menjadi cahaya bagi diri dan sekelilingnya. -Abdullah Gymnastiar",
+            "description": "Orang berilmu pengetahuan ibarat gula yang mengundang banyak semut. Dia menjadi cahaya bagi diri dan sekelilingnya. - Abdullah Gymnastiar",
             "image": ""
         },
         {
             "id": 171,
             "title": "Belajar Al-Quran",
-            "description": "Belajarlah dan berbuat kebajikan sesuai Alquran, niscaya kamu menjadi ahlinya dan tertuntun ke jalan yang benar. - Umar bin Khattab",
+            "description": "Belajarlah Alquran, niscaya kamu tertuntun ke jalan yang benar, dan berbuatlah kebajikan sesuai dengan Alquran, niscaya kamu menjadi ahlinya. - Umar bin Khattab",
             "image": ""
         },
         {
             "id": 172,
             "title": "Jangan Lupakan Akhirat",
-            "description": "Wahai anak Adam, juallah duniamu untuk akhiratmu, niscaya kamu untung di keduanya. . -Hasan Al-Bashri",
+            "description": "Wahai anak Adam, juallah duniamu untuk akhiratmu, niscaya kamu untung di keduanya. Dan janganlah kamu jual akhiratmu untuk duniamu, karena kamu akan rugi di keduanya. Singgah di dunia ini sebentar, sedang tinggal di akhirat sana sangatlah panjang. - Hasan Al-Bashri",
             "image": ""
         },
         {
             "id": 173,
             "title": "Jaga Lisan dan Pendengaran",
-            "description": "Menghindarkan telinga dari mendengar hal tidak baik merupakan keharusan, seperti seseorang mensucikan pekataannya. -Imam Syafii",
+            "description": "Menghindarkan telinga dari mendengar hal-hal yang tidak baik merupakan suatu keharusan, sebagaimana seseorang mensucikan tutur katanya dari ungkapan buruk. - Imam Syafii",
             "image": ""
         },
         {
@@ -1047,7 +1047,7 @@
         {
             "id": 175,
             "title": "Rahmat Tuhan",
-            "description": "Jika seseorang menjauh ketika engkau mendapat kesulitan, ketahuilah bahwa Allah ingin menolongmu dan membuatmu kuat. -Imam Syafi'i",
+            "description": "Jika semua orang menjauh ketika engkau mendapat kesulitan, maka ketahuilah bahwa Allah SWT ingin membuatmu kuat dan Ia akan menjadi peIdlongmu. - Imam Syafi'i",
             "image": ""
         },
         {
@@ -1059,7 +1059,7 @@
         {
             "id": 177,
             "title": "Keutamaan Bersyukur",
-            "description": "Ketahuilah bahwa rasa syukur merupakan tingkatan tertinggi daripada kesabaran, dan ketakutan keterpisahan dari dunia. -Imam al-Ghazali",
+            "description": "Ketahuilah bahwa rasa syukur merupakan tingkatan tertinggi, dan ini lebih tinggi daripada kesabaran, ketakutan (khauf), dan keterpisahan dari dunia (zuhud). - Imam al-Ghazali",
             "image": ""
         },
         {
@@ -1071,13 +1071,13 @@
         {
             "id": 179,
             "title": "Mencintai Allah",
-            "description": "Mencintai makhluk itu berpeluang mengalami kehilangan. Hanya cinta Allah yang tidak akan hilang. - Habiburrahman El Shirazy",
+            "description": "Benar, mencintai makhluk itu sangat berpeluang mengalami kehilangan. Kebersamaan bersama makhluk juga berpeluang mengalami perpisahan. Hanya cinta kepada Allah yang tidak. - Habiburrahman El Shirazy",
             "image": ""
         },
         {
             "id": 180,
             "title": "Mencintai Karena Iman",
-            "description": "Janganlah menikahi wanita karena hartanya, karena bisa menjadikannya bersikap semaunya. Nikahilah karena agamanya. -Ali bin A.Thalib",
+            "description": "Janganlah kalian menikahi wanita karena kecantikannya, karena mungkin saja kecantikannya akan membinasakannya. Dan jangan pula kalian menikahi wanita karena hartanya, karena mungkin saja hartanya akan menjadikannya bersikap sewenang-wenang. Akan tetapi, nikahilah wanita itu karena agamanya. - Ali bin Abi Thalib",
             "image": ""
         },
         {
@@ -1089,49 +1089,49 @@
         {
             "id": 182,
             "title": "Saling Melengkapi",
-            "description": "Pria dan wanita mengimpikan pasangan sempurna. Mereka tidak tahu Allah menciptakan mereka penyempurna satu sama lain. -Alshugairi",
+            "description": "Pria mengimpikan wanita sempurna. Wanita menginginkan pria sempurna. Mereka tidak tahu bahwa Allah menciptakan mereka untuk menyempurnakan satu sama lain. - Ahmad Alshugairi",
             "image": ""
         },
         {
             "id": 183,
-            "title": "Kehidupan",
-            "description": "Anda dilahirkan memiliki sayap, mengapa lebih memilih hidup merangkak. -Jalaludin Rumi",
+            "title": "Keberanian",
+            "description": "Cinta tak pernah meminta untuk menanti. Ia mengambil kesempatan, atau mempersilakan. Yang pertama adalah keberanian, yang kedua adalah pengorbanan. - Salim A. Fillah",
             "image": ""
         },
         {
             "id": 184,
             "title": "Kesalahan Mencintai",
-            "description": "Banyak yang mengatakan mencintai wanita itu menyiksa. namun yang menyiksa itu mencintai orang yang tidak mencintaimu. -Imam Syafi'i",
+            "description": "Banyak orang yang mengatakan bahwa mencintai wanita itu sangat menyiksa. Tapi, sebenarnya yang sangat menyiksa itu adalah mencintai orang yang tidak mencintaimu. - Imam Syafi'i",
             "image": ""
         },
         {
             "id": 185,
             "title": "Kuatnya Hawa Nafsu",
-            "description": "bukan gunung yang paling besar di bumi, melainkan hawa nafsu, jika gagal dikendalikan maka akan masuk neraka. -Abu Hamid",
+            "description": "Yang paling besar di bumi ini bukan gunung dan lautan, melainkan hawa nafsu yang jika gagal dikendalikan maka kita akan menjadi penghuni neraka. - Abu Hamid Al Ghazali",
             "image": ""
         },
         {
             "id": 186,
             "title": "Berbicara Sopan",
-            "description": "Janganlah engkau mengucapkan perkataan yang engkau sendiri tak suka jika orang lain mengucapkannya kepadamu. -Ali bin Abi Thalib",
+            "description": "Janganlah engkau mengucapkan perkataan yang engkau sendiri tak suka mendengarnya jika orang lain mengucapkannya kepadamu. - Ali bin Abi Thalib",
             "image": ""
         },
         {
             "id": 187,
             "title": "Hidup Berbuat Baik",
-            "description": "Hiduplah bersama manusia seperti pohon yang berbuah, mereka melempari dengan batu, tetapi ia membalasnya dengan buah. -Abu Hamid",
+            "description": "Hiduplah kamu bersama manusia sebagaimana pohon yang berbuah, mereka melemparinya dengan batu, tetapi ia membalasnya dengan buah. - Abu Hamid Al Ghazali",
             "image": ""
         },
         {
             "id": 188,
             "title": "Mengutamakan Sang Pencipta",
-            "description": "Barang siapa menginginkan kejernihan hatinya, hendaknya ia mengutamakan Allah daripada menuruti keinginan nafsunya. -Ibnu Qoyyim",
+            "description": "Barang siapa yang menginginkan kejernihan hatinya, hendaknya ia lebih mengutamakan Allah daripada menuruti berbagai keinginan hawa nafsunya. - Ibnu Qoyyim Rahimahullah",
             "image": ""
         },
         {
             "id": 189,
             "title": "Allah Maha Penyayang",
-            "description": "Menangislah pada saat sendiri agar Allah memperhatikanmu. Dia mengasihi dan kamu termasuk orang yang beruntung. -Hasan Al Bashri",
+            "description": "Menangislah pada waktu sendiri agar Allah memperhatikanmu, sehingga Dia mengasihi air matamu dan kamu termasuk orang yang beruntung. - Hasan Al Bashri",
             "image": ""
         },
         {
@@ -1149,31 +1149,31 @@
         {
             "id": 192,
             "title": "Jangan Jadikan Orang lain Sebagai Penentumu",
-            "description": "Jangan biarkan hatimu senang dari pujian orang lain, atau Anda akan sedih dengan kecaman mereka. - Abu Hamid",
+            "description": "Jangan biarkan hati Anda mendapatkan kesenangan dengan pujian dari orang lain atau Anda akan sedih dengan kecaman mereka. - Abu Hamid Al Ghazali",
             "image": ""
         },
         {
             "id": 193,
-            "title": "Kematian",
-            "description": "Kematian adalah jembatan yang menghubungkan orang yang mencintai dengan yang dicintainya. -Jalaludin Rumi",
+            "title": "Hadapi Rasa Takut Gelisah",
+            "description": "Bila kau cemas dan gelisah akan sesuatu, masuklah ke dalamnya sebab ketakutan menghadapinya lebih menganggu daripada sesuatu yang kau takuti sendiri. - Ali bin Abi Thalib",
             "image": ""
         },
         {
             "id": 194,
-            "title": "Kehidupan",
-            "description": "Biarkanlah dirimu dibentuk oleh tarikan yang kuat dari sesuatu yang kamu cintai. -Jalaludin Rumi",
+            "title": "Sikap Terberat",
+            "description": "Pekerjaan terberat itu ada tiga, yakni sikap dermawan di saat dalam keadaan sempit, menjauhi dosa di kala sendiri, serta berkata benar di hadapan orang yang ditakuti. - Imam Syafi'i",
             "image": ""
         },
         {
             "id": 195,
             "title": "Mencintai Karena Allah",
-            "description": "Aku mencintaimu karena agama mu. Jika kau hilangkan agama dalam dirimu, maka hilanglah cintaku padamu. -Imam An Nawawi",
+            "description": "Aku mencintaimu karena agama yang ada padamu. Jika kau hilangkan agama dalam dirimu, maka hilanglah cintaku padamu. -Imam An Nawawi",
             "image": ""
         },
         {
             "id": 196,
             "title": "Tanda Matinya Hati",
-            "description": "Tanda matinya hati, ialah tidak adanya perasaan sedih melewatkan kesempatan beramal dan tidak adanya penyesalan. -Ibnu Athaillah",
+            "description": "Di antara tanda matinya hati, adalah tidak adanya perasaan sedih atas kesempatan beramal yang engkau lewatkan dan tidak adanya penyesalan atas pelanggaran yang engkau lakukan. -Ibnu Athaillah",
             "image": ""
         },
         {
@@ -1191,7 +1191,7 @@
         {
             "id": 199,
             "title": "Kebenaran",
-            "description": "Kebenaran seseorang Tidak diukur oleh orangnya, tetapi seseorang diukur oleh kebenarannya. -Ali bin Abi Thalib",
+            "description": "Kenali kebenaran, maka kamu akan tahu orang-orang yang benar. Benar Tidak diukur oleh orang-orangnya, tetapi manusia diukur oleh kebenaran. -Ali bin Abi Thalib",
             "image": ""
         },
         {

@@ -28,6 +28,10 @@ def load_model():
 #     loaded_model = Wav2Vec2ForCTC.from_pretrained("Nuwaisir/Quran_speech_recognizer").eval()
 #     loaded_processor = Wav2Vec2Processor.from_pretrained("Nuwaisir/Quran_speech_recognizer")
 
+# TODO
+# Create Batch Response
+# Python: Threads
+
 def predict_sound_file(file_path, loaded_model, loaded_processor):
     speech, _ = librosa.load(file_path, sr=16000)
     inputs = loaded_processor(speech, sampling_rate=16000, return_tensors="pt", padding=True)
