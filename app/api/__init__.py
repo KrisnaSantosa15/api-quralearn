@@ -19,6 +19,8 @@ from app.api.inspiration.get_quotes import get_quotes, GetQuotesResponseModel
 from app.api.images.get_funfacts_images import get_funfacts_images, getFunfactsImagesResponseModel
 from app.api.images.get_quotes_images import get_quotes_images, getQuotesImagesResponseModel
 
+from app.api.miscellaneous.waiting_list import waiting_list
+
 api_router = APIRouter()
 
 # AUTH ROUTES
@@ -43,3 +45,6 @@ api_router.add_api_route("/api/v1/inspiration/quotes/{count}", get_quotes, metho
 # Images
 api_router.add_api_route("/api/v1/funfacts_images/{image}", get_funfacts_images, methods=["GET"], tags=["images"], response_model=getFunfactsImagesResponseModel)
 api_router.add_api_route("/api/v1/quotes_images/{image}", get_quotes_images, methods=["GET"], tags=["images"], response_model=getQuotesImagesResponseModel)
+
+# Miscellaneous
+api_router.add_api_route("/api/v1/miscellaneous/waiting_list", waiting_list, methods=["POST"], tags=["miscellaneous"], status_code=201)
