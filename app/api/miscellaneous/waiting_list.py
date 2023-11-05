@@ -14,7 +14,7 @@ async def waiting_list(data: WaitingListData, session = Depends(get_db_session))
     # check if email is already exist
     check_email = session.execute(sa.select(WaitingList.id).where(WaitingList.email == data.email)).scalar_one_or_none()
     if check_email:
-        raise HTTPException(status_code=status.HTTP_409_CONFLICT, detail='username already taken')
+        raise HTTPException(status_code=status.HTTP_409_CONFLICT, detail='email already registered in waiting list')
     
     waiting_list = WaitingList(
             email=data.email
